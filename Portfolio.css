@@ -1,0 +1,55 @@
+body{
+    margin:0;
+}
+.header{
+    background-color: #3dcfd3;
+    color:rgb(27, 50, 151);
+    padding:1px;
+    margin:0;
+    text-align: left;
+    font-size: medium;
+}
+.headfont{
+    height:85vh;
+    background-color:#161616;
+    margin:0;
+}
+.bodyfont{
+    width:30%;
+    float:left;
+    text-align: center;
+    padding-top:8%;
+    font-size:25px;
+    font-weight:bold;
+}
+#picforresume{
+    width:30%;
+    height:100%;
+    border-radius:40%;
+    border:3px solid #3dcfd3);
+}
+.name{
+    color:whitesmoke;
+}
+.hobbfont{
+    text-align: left;
+    margin:0;
+    font-size: 30px;
+    align-items: center;
+    height:80vh;
+    background-image: url(scott-graham-5fNmWej4tAA-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#styler1{
+    background-color: #3dcfd3;
+    color: #161616;
+    margin:0;
+    margin-bottom:2%;
+    font-size: medium;
+    padding:2px;
+}
+.hobbtext{
+    padding-left: 50px;
+    padding-right: 50px;
+}
